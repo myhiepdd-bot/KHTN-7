@@ -1,0 +1,6 @@
+{
+  "name": "AI LÀ CHUYÊN GIA PHÒNG THÍ NGHIỆM",
+  "description": "Ứng dụng đánh giá mức độ nắm bài môn Khoa học tự nhiên 7 (Kết nối tri thức). Tác giả: HIỆP AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
